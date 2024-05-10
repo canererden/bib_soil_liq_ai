@@ -1,3 +1,6 @@
+# About Repo
+This repository contains the code implementation for the paper titled "Bibliometric Analysis of Artificial Intelligence Techniques for Predicting Soil Liquefaction: Insights and MCDM Evaluation," published in the Natural Hazards journal in 2024. The paper explores the application of artificial intelligence (AI) techniques for predicting soil liquefaction, a critical geotechnical issue affecting infrastructure and human safety.
+
 # Bibliometric Analysis of Artificial Intelligence Techniques for Predicting Soil Liquefaction: Insights and MCDM Evaluation
 
 ## Abstract
